@@ -1,2 +1,0 @@
-spring.application.name= myclient
-management.security.enabled=false
